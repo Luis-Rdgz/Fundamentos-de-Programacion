@@ -5,6 +5,9 @@ void imprimir(char arreglo[]);
 void cifrar(char arreglo[]);
 int main(void)
 {
+	//LUIS ANGEL RODRIGUEZ
+	//24041512
+	
 	char arreglo[100];
 	int i;
 	captura(arreglo);

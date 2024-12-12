@@ -2,6 +2,10 @@
 using namespace std;
 int potencia(int n, int e);
 int main(){
+	
+	//LUIS ANGEL RODRIGUEZ
+	//24041512
+	
  int num,exponente;
  cout<<"Dame el numero a elevar: "; 	
  cin>>num;

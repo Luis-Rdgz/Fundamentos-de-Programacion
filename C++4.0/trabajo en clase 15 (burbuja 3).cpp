@@ -8,6 +8,9 @@ void imprime(int arreglo[], int n);
 void intercambia(int &x,int &y);//envía dos parámetros por referencia
 int main()
 {
+	//LUIS ANGEL RODRIGUEZ
+	//24041512
+	
     int num, arreglo[100];
     srand(time(0));
     num=cuantos();
